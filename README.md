@@ -33,4 +33,4 @@ or
 
 > javac -d classes/ -cp classes/ Path to Tester files
 
-> java -cp classes/ Tester
+> java -cp classes/ Tester File name (without .java)

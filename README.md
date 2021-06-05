@@ -16,12 +16,14 @@ The program stores employee data and maintains the information about organizatio
   - Contains files which test the database system
 
 > Usage - make (while using the makefile one should ensure that the path to the tester files is also provided as tester files are not in the same folder)
+
 or 
+
 > Usage without makefile - 
-  > javac -d classes/ -cp classes/ EmptyTreeException.java
-  > javac -d classes/ -cp classes/ IllegalIDException.java
-  > javac -d classes/ -cp classes/ NotEmptyException.java
-  > javac -d classes/ -cp classes/ OrgHierarchyInterface.java
-  > javac -d classes/ -cp classes/ OrgHierarchy.java
-  > javac -d classes/ -cp classes/ <Path to Tester files>
-  > java -cp classes/ Tester
+> javac -d classes/ -cp classes/ EmptyTreeException.java
+> javac -d classes/ -cp classes/ IllegalIDException.java
+> javac -d classes/ -cp classes/ NotEmptyException.java
+> javac -d classes/ -cp classes/ OrgHierarchyInterface.java
+> javac -d classes/ -cp classes/ OrgHierarchy.java
+> javac -d classes/ -cp classes/ <Path to Tester files>
+> java -cp classes/ Tester

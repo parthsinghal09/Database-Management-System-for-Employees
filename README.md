@@ -20,10 +20,17 @@ The program stores employee data and maintains the information about organizatio
 or 
 
 > Usage without makefile - 
+
 > javac -d classes/ -cp classes/ EmptyTreeException.java
+
 > javac -d classes/ -cp classes/ IllegalIDException.java
+
 > javac -d classes/ -cp classes/ NotEmptyException.java
+
 > javac -d classes/ -cp classes/ OrgHierarchyInterface.java
+
 > javac -d classes/ -cp classes/ OrgHierarchy.java
+
 > javac -d classes/ -cp classes/ <Path to Tester files>
+
 > java -cp classes/ Tester

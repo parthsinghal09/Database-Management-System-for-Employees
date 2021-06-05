@@ -31,6 +31,6 @@ or
 
 > javac -d classes/ -cp classes/ OrgHierarchy.java
 
-> javac -d classes/ -cp classes/ <<Path to Tester files>>
+> javac -d classes/ -cp classes/ Path to Tester files
 
 > java -cp classes/ Tester

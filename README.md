@@ -1,6 +1,6 @@
 # Database-Management-System-for-Employees
 
-The program stores employee data and maintains the information about organization hierarchy using a generic Tree data structure. The Databse also supports queries such as fire employee, hire employee, list employees and employee search in a time and space efficient manner using an AVL Tree.
+The program stores employee data and maintains the information about organization hierarchy using a generic Tree data structure. The Database also supports queries such as fire employee, hire employee, list employees and employee search in a time and space efficient manner using an AVL Tree.
 
 # Folders
 
